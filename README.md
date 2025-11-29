@@ -1,3 +1,3 @@
 # 2nd-repo
-this is second project <br>
+this is my second project <br>
 saw the project
